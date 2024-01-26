@@ -1,5 +1,8 @@
 package statistics;
 
+
+import game.Game;
+
 public class GameStatistics {
     private int winsAmount;
     private int losesAmount;

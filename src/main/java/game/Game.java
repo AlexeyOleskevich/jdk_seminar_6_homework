@@ -1,3 +1,5 @@
+package game;
+
 import doors.Door;
 import doors.DoorsGenerator;
 
